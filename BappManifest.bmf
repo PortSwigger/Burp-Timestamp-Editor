@@ -1,0 +1,12 @@
+Uuid: 3eb7806c0aef4d4b8b12225bf76949d8
+ExtensionType: 1
+Name: Timestamp Editor
+RepoName: timestamp-editor
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Chris Hembrow  
+ShortDescription: Provides a popup menu to edit Unix timestamps in Burp message editors
+EntryPoint: dist/TimestampEditor_v1.0.0.jar
+BuildCommand: ant
